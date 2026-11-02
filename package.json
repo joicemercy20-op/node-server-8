@@ -1,0 +1,13 @@
+{
+  "name": "ex8-nodejs-server-side-application",
+  "version": "1.0.0",
+  "description": "Exercise 8 - Native Node.js HTTP server and Express server application",
+  "main": "server.js",
+  "scripts": {
+    "start:native": "node server.js",
+    "start:express": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
